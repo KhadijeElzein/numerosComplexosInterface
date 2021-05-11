@@ -43,7 +43,7 @@
     "http": "0.0.0",
     "js-file-download": "0.4.9",
     "keycloak-js": "4.8.3",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "moment": "2.24.0",
     "morgan": "1.9.1",
     "node-sass": "4.12.0",
